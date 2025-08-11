@@ -1,0 +1,6 @@
+if SHIELD_AURA
+
+config ZMK_KEYBOARD_NAME
+    default "Aura"
+
+endif
