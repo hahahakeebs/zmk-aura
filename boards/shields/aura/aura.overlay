@@ -1,4 +1,4 @@
-#include "heatwave.dtsi"
+#include "aura.dtsi"
 
 kscan0: kscan_0 {
     compatible = "zmk,kscan-gpio-matrix";
